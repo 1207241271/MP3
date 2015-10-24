@@ -1,0 +1,17 @@
+ADD one
+
+ADD two
+
+ADD three
+
+DELETE two
+
+SHOW
+
+ADD ten
+
+ADD six
+
+SHOW
+
+PLAY
